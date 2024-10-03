@@ -2,9 +2,9 @@
 >“Программирование - это не просто наука, это искусство.” - Неизвестный автор
 ___
 ## План обучения
-1.Изучить основы HTML  
-2.Изучить основы CSS  
-3.Изучить основы JavaScript
+1. Изучить основы HTML  
+2. Изучить основы CSS  
+3. Изучить основы JavaScript
 ___
 ## Основные технологии
 - HTML
@@ -12,13 +12,13 @@ ___
 - JavaScript
 ___
 ### HTML
-HTML (*HyperText Markup Language*) - это стандартный язык разметки для создания вебстраниц. Он используется для структурирования конте
+**HTML** (*HyperText Markup Language*) - это стандартный язык разметки для создания вебстраниц. Он используется для структурирования конте
 ### CSS
-CSS (*Cascading Style Sheets*) - это язык стилей, используемый для описания внешнего 
+**CSS** (*Cascading Style Sheets*) - это язык стилей, используемый для описания внешнего 
 вида документа, написанного на HTML. С его помощью можно задавать цвета, шрифты, 
 отступы и другие визуальные параметры.
 ### JavaScript
-JavaScript - это язык программирования, который позволяет реализовывать сложное 
+**JavaScript** - это язык программирования, который позволяет реализовывать сложное 
 поведение на веб-страницах. Он используется для создания интерактивных элементов, 
 таких как кнопки, формы и анимации.
 ## Пример кода
@@ -92,9 +92,9 @@ ___
  Создать свой первый веб-сай
 ___
 ## **Cсылки**
-[***JavaScript***](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)
-[***CSS***](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[***HTML***](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[***JavaScript***](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)  
+[***CSS***](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[***HTML***](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)  
 
 
 
